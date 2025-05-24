@@ -1,12 +1,17 @@
 # Welcome to My Portfolio! 👋
 
 A brief introduction of me-
-I'm Abhishek Sharma, a Technical Writer. I have expertise in software documentation, API documentation, video tutorials, release notes, user guides, how-to guides, SOPs, and other type of technical content.
+I'm Abhishek Sharma, a Technical Writer. I have expertise in 
+- Software documentation using docs-as-code
+- API documentation (Swagger and OpenAPI Specification)
+- Video tutorials
+- Release notes
+- AI Tools
 
 This is a portfolio of the selected work  I've done. Feel free to take a sneak peek. :eyes:
 
 ## Software Documentation
-- **URL:** [Link to Software Documentation](https://abhishek1998.github.io/beta-docs-website/)
+- **Sample Work built on Jekyll:** [Link to Software Documentation](https://abhishek1998.github.io/beta-docs-website/)
 - **Title:** User Guide for SuiteCRM Email to Anything
 - **Description:** This is the documentation of SuiteCRM Email to Anything.
 
